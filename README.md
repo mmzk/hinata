@@ -1,2 +1,2 @@
-# hinata-0
+# hinata
 test my life
